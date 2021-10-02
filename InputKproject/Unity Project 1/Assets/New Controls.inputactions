@@ -1,0 +1,11 @@
+{
+    "name": "New Controls",
+    "maps": [],
+    "controlSchemes": [
+        {
+            "name": "Keyboard",
+            "bindingGroup": "Keyboard",
+            "devices": []
+        }
+    ]
+}
